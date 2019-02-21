@@ -1,0 +1,12 @@
+aiohttp
+aiohttp_socks
+aiofiles
+uvloop
+keras
+numpy
+matplotlib
+tensorflow
+opencv-python<4
+pandas
+sklearn
+scikit-image
